@@ -1,0 +1,21 @@
+Version Control is Important:
+-It will save a lot of time tracing back mistakes
+-You can use it to record milestones for steps completed in your project
+-Makes collaboration easy
+-Use it to reord what changes made by which contributor
+
+
+-saves you time thus making you more efficient
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+-You can save at logical intervals, when you have completed one feature or one logical step
+-You might forget to save 
+
+How can you use the commands git log and git diff to view the history of files?
+-keep a milestone history of your work, log after you do it eac
+-makes it easy to trace your work back
+-can revert to last working state easily
+
+How might using version control make you more confident to make changes that could break something?
+
+-if i commit after every mini-goal acheived and if too many lines of code are not changed, i can find the point where the bug was introduced and compare the difference between the bug state and the state just before the bug was introduced

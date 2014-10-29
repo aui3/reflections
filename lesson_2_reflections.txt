@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 -To start tracking files for version control
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+- gives you the flexibility of picking and choosing what files from your directory you want to take a snap shot of
