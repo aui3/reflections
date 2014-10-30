@@ -3,3 +3,24 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 - gives you the flexibility of picking and choosing what files from your directory you want to take a snap shot of
+
+How can you use the staging area to make sure you have one commit per logical change?
+-add and commit only the file that had the logical change
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+-If you want to modify work on a slightly different version or experiment with something new. Branches will help keep everything separate
+-context switching
+-help sharing
+-Help collaborating with team members
+	-master is main production quality branch that always works never breaks
+	-development branch is where active work is taking place on your project
+	-experimental branch/ unique feature branches...u r working on..but you expect to fail..and you want share with people to know it may break is not production qualiry
+
+-Help collaborate with your self
+	-compartmentalise work
+	-switch between aspects portions of code...work on one part then switch on thers
+
+-New BRANCH for every bug-fix or new feature
+
+How do the diagrams help you visualize the branch structure?
+-easier to visualise or know what point on the project modification time line you stand
